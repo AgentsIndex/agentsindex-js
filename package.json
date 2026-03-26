@@ -1,0 +1,36 @@
+{
+  "name": "agentsindex",
+  "version": "0.1.0",
+  "description": "JavaScript client for AgentsIndex.ai — browse AI agents, frameworks, and tools programmatically",
+  "homepage": "https://agentsindex.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgentsIndex/agentsindex-js"
+  },
+  "bugs": {
+    "url": "https://github.com/AgentsIndex/agentsindex-js/issues"
+  },
+  "author": "AgentsIndex <hello@agentsindex.ai> (https://agentsindex.ai)",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "agents",
+    "ai-agents",
+    "directory",
+    "llm",
+    "frameworks",
+    "automation",
+    "agentsindex"
+  ],
+  "main": "index.js",
+  "types": "index.d.ts",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ]
+}
